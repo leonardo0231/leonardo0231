@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Terminal-style developer profile for Jalil Ahmad Afshar.">
+  <title>jalil@github:~$ profile</title>
+  <link rel="stylesheet" href="./profile-terminal.css">
+</head>
+<body>
+  <main class="shell" aria-label="Interactive terminal profile">
+    <section class="terminal" id="terminal" aria-live="polite">
+      <header class="titlebar">
+        <span class="traffic-light close" aria-hidden="true"></span>
+        <span class="traffic-light minimize" aria-hidden="true"></span>
+        <span class="traffic-light maximize" aria-hidden="true"></span>
+        <span class="window-title">jalil@github: ~/profile</span>
+      </header>
+
+      <div class="screen">
+        <div class="boot-line muted">Last login: <span id="date"></span> on github-profile</div>
+        <div id="output" class="output"></div>
+        <div class="prompt-row">
+          <span class="prompt">jalil@github:~$</span>
+          <span id="command" class="command"></span><span class="cursor" aria-hidden="true"></span>
+        </div>
+      </div>
+    </section>
+
+    <nav class="quick-links" aria-label="Profile links">
+      <a href="https://github.com/leonardo0231" target="_blank" rel="noreferrer">GitHub</a>
+      <a href="https://linkedin.com/in/jalil-ahmad-afshar-055a98186" target="_blank" rel="noreferrer">LinkedIn</a>
+      <button id="replay" type="button">replay animation</button>
+    </nav>
+  </main>
+  <script src="./profile-terminal.js"></script>
+</body>
+</html>
+
