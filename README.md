@@ -85,9 +85,6 @@ studies, reproducible evidence, and MetaTrader 5 replay.
 <code>Python</code> <code>Machine Learning</code> <code>Time Series</code> <code>Finance</code> <code>MT5</code>
 
 
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### [Financial-market](https://github.com/leonardo0231/Financial-market)
@@ -98,7 +95,9 @@ workflow automation, Telegram control, strategy management, and risk controls.
 <code>Python</code> <code>MT5</code> <code>Redis</code> <code>PostgreSQL</code> <code>n8n</code>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### [Study Assistant](https://github.com/leonardo0231/study-assistant)
@@ -109,9 +108,7 @@ search to retrieve answers from educational content.
 <code>Python</code> <code>FastAPI</code> <code>NLP</code> <code>FAISS</code> <code>Vector Search</code>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### [House Price Prediction](https://github.com/leonardo0231/House_Price_Prediction)
@@ -122,6 +119,8 @@ comparison, and regression for housing-price prediction.
 <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Scikit-learn</code>
 
 </td>
+</tr>
+
 
 <td width="50%" valign="top">
 
