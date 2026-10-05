@@ -68,12 +68,6 @@ The projects use combinations of Django/DRF or FastAPI, Next.js and TypeScript,
 PostgreSQL, Redis, Celery, Docker, REST/OpenAPI contracts, role-scoped access,
 data import pipelines, and automated tests.
 
-### [SAMPA](https://github.com/sampaazmoon-cmd/SAMPA)
-
-An educational monitoring platform being developed as a modular Django backend
-with PostgreSQL, Docker Compose, versioned APIs, authentication, school and
-curriculum domains, question-bank foundations, and CI quality checks.
-
 <br>
 
 ## Selected Projects
@@ -90,18 +84,7 @@ studies, reproducible evidence, and MetaTrader 5 replay.
 
 <code>Python</code> <code>Machine Learning</code> <code>Time Series</code> <code>Finance</code> <code>MT5</code>
 
-</td>
 
-<td width="50%" valign="top">
-
-### [DNSGame](https://github.com/leonardo0231/DNSGame)
-
-A Windows utility for benchmarking DNS endpoints using Ping, Jitter, Packet Loss,
-and real DNS response checks, with safe configuration snapshots and rollback.
-
-<code>C#</code> <code>.NET 8</code> <code>WPF</code> <code>Networking</code> <code>Windows</code>
-
-</td>
 </tr>
 
 <tr>
